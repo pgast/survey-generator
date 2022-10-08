@@ -41,7 +41,7 @@ export const ListItemTextContainer = styled.div`
   div:first-child {
     font-weight: bold;
     font-size: 15px;
-    width: 320px;
+    width: 270px;
     overflow-x: hidden;
     text-overflow: ellipsis;
     padding-left: 5px;
@@ -71,7 +71,7 @@ export const AnswerTypeText = styled.div`
   flex-direction: column;
   font-size: 13px;
   margin-left: 8px;
-  width: 50px;
+  width: 100px;
 
   span:first-child {
     font-weight: bold;

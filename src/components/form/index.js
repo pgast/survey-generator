@@ -8,7 +8,7 @@ import {
   RadioInputOptionsContainer,
 } from './styled'
 
-const answerTypes = ["text", "boolean", "number", "multiple"]
+const answerTypes = ["text", "boolean", "number", "multiple choice"]
 const isRequiredTypes = ["yes", "no"]
 
 function renderRadioInputs({value, onChangeHandler, options, name}) {
